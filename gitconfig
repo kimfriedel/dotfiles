@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kimeric94@yahoo.de
+	name = kimfriedel
